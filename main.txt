@@ -13,7 +13,7 @@ main7.txt
 main7.txt
 main7.txt
 main7.txt
-mmmmmmmmm
+rrrrrrrr
 mmmmmmmmm
 uuuuuuuu
 nnnnnnnnn
