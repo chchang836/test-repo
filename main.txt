@@ -14,7 +14,6 @@ main7.txt
 main7.txt
 main7.txt
 rrrrrrrr
-mmmmmmmmm
 uuuuuuuu
 nnnnnnnnn
 bbbbbbbb
