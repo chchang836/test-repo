@@ -5,3 +5,4 @@ KISS
 ac/dc	
 blink182
 GREENDAY
+LINKIN-PARK
